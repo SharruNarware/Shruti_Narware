@@ -1,4 +1,4 @@
-# Hi, I'm Shruti Narware 👋
+# Hi, I'm Shruti Narware 
 
 ### Software Developer | Full-Stack Development | Backend | Cloud & DevOps
 
@@ -14,23 +14,23 @@ problem solving and continuous learning.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Bachelor of Engineering graduate
-- 💻 Interested in Software Development & Full-Stack Development
-- 🌐 Building applications with modern frontend and backend technologies
-- ⚛️ Hands-on experience with React and responsive UI development
-- 🖥️ Backend development with Node.js and Express.js
-- 🗄️ Experience working with databases and API integration
-- 🐳 Exploring containerization with Docker
-- ☁️ Learning Cloud & DevOps practices
-- 🧪 Practicing application testing and deployment
-- 🤖 Exploring AI/ML concepts and AI-powered application development
-- 📚 Continuously improving DSA, programming and software engineering skills
+-  Bachelor of Engineering graduate
+-  Interested in Software Development & Full-Stack Development
+-  Building applications with modern frontend and backend technologies
+-  Hands-on experience with React and responsive UI development
+-  Backend development with Node.js and Express.js
+-  Experience working with databases and API integration
+-  Exploring containerization with Docker
+-  Learning Cloud & DevOps practices
+-  Practicing application testing and deployment
+-  Exploring AI/ML concepts and AI-powered application development
+-  Continuously improving DSA, programming and software engineering skills
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming
 - Java
@@ -77,9 +77,9 @@ problem solving and continuous learning.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🏋️ FIT5 Sports Club
+##  FIT5 Sports Club
 
 A full-stack sports club web application designed to manage
 sports-related activities, registrations and administrative workflows.
@@ -100,7 +100,7 @@ sports-related activities, registrations and administrative workflows.
 
 ---
 
-## 📈 Stock Trading Platform
+##  Stock Trading Platform
 
 A web-based project focused on exploring stock-market related
 workflows and application development.
@@ -119,7 +119,7 @@ workflows and application development.
 
 ---
 
-## 🎥 MeetSphere — Real-Time Video Meeting Platform
+##  MeetSphere — Real-Time Video Meeting Platform
 
 A video meeting and communication platform inspired by modern
 real-time meeting applications.
@@ -143,7 +143,7 @@ frontend interfaces and backend services work together.
 
 ---
 
-## 🤖 AI-Powered Assistant Platform
+##  AI-Powered Assistant Platform
 
 A full-stack application inspired by modern AI assistant interfaces.
 
@@ -165,7 +165,7 @@ machine-learning model.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 ```text
 Full-Stack Development
